@@ -1,0 +1,4 @@
+baseURL = 'https://sarah.web/'
+locale = 'en-gb'
+title = 'Sarahweb'
+theme = 'hello-friend-ng'
